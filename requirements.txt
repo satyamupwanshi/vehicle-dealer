@@ -1,9 +1,0 @@
-Django>=4.2
-djangorestframework
-djangorestframework-simplejwt
-corsheaders
-gunicorn
-mysqlclient  # only if you're using MySQL
-Pillow       # if you use ImageField
-django-cors-headers
-
